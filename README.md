@@ -12,7 +12,7 @@ To-do:
 
 ## LinkedBag.java (without three task methods) - (John)
 
-## union method for both ResizeableArrayBag.java and LinkedBag.java - (Name goes here)
+## union method for both ResizeableArrayBag.java and LinkedBag.java - (Priscilla)
 
 ## intersection method for both ResizeableArrayBag.java and LinkedBag.java - (Name goes here)
 
@@ -20,7 +20,7 @@ To-do:
 
 ## ArrayBagTest.java (to test the three task methods) (Daniel)
 
-## LinkedBagTest.java (to test the three task methods) - (Name goes here)
+## LinkedBagTest.java (to test the three task methods) - (Priscilla)
 
 ## Big O notation (for each method, in best case and worst case, with explanations) - (Name goes here)
 
